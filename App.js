@@ -24,7 +24,7 @@ export default function App() {
 
       <Text style={Styles.texto1}> Pesquise entre esses artistas: </Text>
       <Text style={Styles.texto2}> Kurt Cobain, Chris Cornell, Freddie Mercury </Text>
-      <Text style={Styles.texto3}>(tudo em minusculo e junto)</Text>
+      <Text style={Styles.texto3}>(tudo em minusculo)</Text>
 
       <TextInput
         style={{ borderWidth: 1, marginTop: 30, padding: 6, textAlign: 'center' }}
